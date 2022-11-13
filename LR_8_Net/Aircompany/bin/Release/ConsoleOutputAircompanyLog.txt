@@ -1,0 +1,3 @@
+Airport{planes=C-130 Hercules, F-15, F-22, B-52 Stratofortress, B-1B Lancer, B-2 Spirit}
+Airport{planes=Embraer 190, Sukhoi Superjet 100, Boeing-737, Bombardier CS300, Airbus A320, Boeing-737-800, Boeing-747, Airbus A330}
+Plane{model='Boeing-747', maxSpeed=980, maxFlightDistance=16100, maxLoadCapacity=70500, passengersCapacity=242}
